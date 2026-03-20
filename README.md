@@ -9,3 +9,5 @@ to push latest changes run a local terminal and:
 to get latest changes run:
 
 `git pull`
+
+record any prompts and transcripts in `chat_transcripts`
