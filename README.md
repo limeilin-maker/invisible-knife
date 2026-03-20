@@ -2,4 +2,7 @@
 
 added AR chat.
 
-git-push added.
+to push latest changes run a local terminal and:
+
+`./git-push.sh`
+
